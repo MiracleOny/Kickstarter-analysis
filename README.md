@@ -1,13 +1,12 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-The purpose of this project is to vizualize campaign outcomes based on their launch dates and their funding goals. 
-
-Use your knowledge of pivot tables and graphing in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date. Use your Excel skills to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount. 
+The purpose of this project is to use pivot tables and graphing in Excel to vizualize campaign outcomes ("successful," "failed," and "canceled") based on launch date and the percentage of successful, failed, and canceled plays based on the funding goal amount.
 
 ## Analysis and Challenges
+
 ### Analysis of Outcomes Based on Launch Date
-Over all, theater is a popular and successful campaign category.
+Over all, theater is a popular and successful campaign category. Out of 4064 Campaigns only 
 spike of successful campiagns that bgan in june, but that tapers off by the end of the year.
 trend lines are a bit all over the place and less predictable
 June seems to be a good month to launch a campaign02
