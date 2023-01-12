@@ -9,7 +9,7 @@ The purpose of this project is to use pivot tables and graphing in Excel to vizu
 Over all, theater is a popular and successful campaign category. Out of 1369 theater campaigns, 61% were successful, 36% failed and 3% were canceled. May experienced the most successful campaigns, while December was the least succesful. From April to May we see a spike in successful campaigns that tapers off at the end of the year. 
 
 ### Analysis of Outcomes Based on Goals
-Trend lines are all over the place and less predictable. As campagin goals increase, success decreases and failures increase
+Trend lines are obscured by a spike  are all over the place and less predictable. As campagin goals increase, success decrease and failures increase. However,  
 
 ### Challenges and Difficulties Encountered
 There were a few challenges and limitations in this analysis. It's not clear why there aren't any records of canceled campaigns in the month of October and why there's a spike in failed campaigns following a slightly lower number of failed campaigns. 
