@@ -16,15 +16,4 @@ There were a few challenges and limitations in this analysis. It's not clear why
 
 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-Two conclusions that can be drawn are (1) May is the best month to launch a campaign and (2) campaigns started in December have a high likelihood of failing. 
-
-- What can you conclude about the Outcomes based on Goals?
-What we can conclude about Outcomes based on Goals is that campaigns have a greater chance of succeeding when they are less than $5000.
-
-- What are some limitations of this dataset?
-Some limitations to this dataset stem from a poor sample size, not enough variables included in the analysis such as backers_count, deadlines, and country of campaign. 
-
-- What are some other possible tables and/or graphs that we could create?
-We could create graphs that include outcomes based on launch date and deadlines and outcomes based on goals and launch date. Another possible graph could be goals, pledges, and backers_count. Lastly, we could create a graph that looked at outcomes based on country of campaign.
+Two conclusions that can be drawn are (1) May is the best month to launch a campaign and (2) campaigns started in December have a high likelihood of failing. What we can conclude about Outcomes based on Goals is that campaigns have a greater chance of succeeding when they are less than $5000. Some limitations to this dataset stem from a poor sample size, not enough variables included in the analysis such as backers_count, deadlines, and country of campaign. Some graphs we could create are: graphs that include outcomes based on launch date and deadlines and outcomes based on goals and launch date. Another possible graph could be goals, pledges, and backers_count. Lastly, we could create a graph that looked at outcomes based on country of campaign.
