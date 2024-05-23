@@ -5,7 +5,7 @@ The purpose of this project is to use pivot tables and graphs in Excel to vizual
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-Over all, the most popular and successful campaign category is theater. Out of 1,369 theater campaigns, 61% were successful, 36% failed, and 3% were canceled. Campigns helped in May were the most successful, while December was the least succesful month to start campaigns. From April to May, there is a spike in successful campaigns that tapers off by the end of the year. 
+Over all, the most popular and successful campaign category is theater. Out of 1,369 theater campaigns, 61% were successful, 36% failed, and 3% were canceled. Campigns held in May were the most successful, while December was the least succesful month to start campaigns. From April to May, there is a spike in successful campaigns that tapers off by the end of the year. 
 
 ### Analysis of Outcomes Based on Goals
 As campagin goals increase, success decrease and failures increase. However, this trend is obscured by a spike between goals ranging from $35,000 and $44,999.  
